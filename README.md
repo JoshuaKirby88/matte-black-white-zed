@@ -8,11 +8,13 @@ Low-distraction dark and light themes for Zed.
 
 ### Install
 
-Search for **"Matte Black & White"** in the Zed extension installer, or install manually:
+Clone into Zed's local extensions directory:
 
 ```sh
 git clone git@github.com:JoshuaKirby88/matte-black-white-zed.git ~/.config/zed/extensions/matte-black-white
 ```
+
+Then restart Zed or run `zed: reload extensions` from the command palette. The themes will appear as **Matte Black** and **Matte White** in the theme selector.
 
 ### Themes
 
