@@ -10,9 +10,9 @@ jobs:
     steps:
       - uses: huacnlee/zed-extension-action@v2
         with:
-          extension-name: matte-black
+          extension-name: matte-black-white
           # extension-path: extensions/${{ extension-name }}
-          push-to: tahayvr/zed-extensions
+          push-to: JoshuaKirby88/zed-extensions
         env:
           # the personal access token should have "repo" & "workflow" scopes
           COMMITTER_TOKEN: ${{ secrets.COMMITTER_TOKEN }}

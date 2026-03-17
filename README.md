@@ -1,10 +1,25 @@
-## Matte Black – Zed Theme
+## Matte Black & White – Zed Theme
 
-A low-distraction dark theme.
+Low-distraction dark and light themes for Zed.
 
-**[Matte Black theme for Zed](https://zed.dev/extensions/matte-black)**
+**Matte Black** – A dark, muted theme with warm amber accents.
 
-![screenshot](./assets/screenshot.png)
+**Matte White** – A light counterpart with the same accent colors and syntax highlighting, inverted to white backgrounds.
+
+### Install
+
+Search for **"Matte Black & White"** in the Zed extension installer, or install manually:
+
+```sh
+git clone git@github.com:JoshuaKirby88/matte-black-white-zed.git ~/.config/zed/extensions/matte-black-white
+```
+
+### Themes
+
+| Theme | Appearance |
+|---|---|
+| Matte Black | Dark |
+| Matte White | Light |
 
 ### Matte Black for Other Platforms
 
