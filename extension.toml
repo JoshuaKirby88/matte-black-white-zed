@@ -1,7 +1,7 @@
-id = "matte-black"
-name = "Matte Black"
-version = "1.2.0"
+id = "matte-black-white"
+name = "Matte Black & White"
+version = "1.3.0"
 schema_version = 1
-authors = ["Taha YVR <taha@noiserandom.com>"]
-description = "A low-distraction dark theme for Zed."
-repository = "https://github.com/tahayvr/matte-black-zed"
+authors = ["Taha YVR <taha@noiserandom.com>", "Joshua Kirby"]
+description = "Low-distraction dark and light themes for Zed."
+repository = "https://github.com/JoshuaKirby88/matte-black-white-zed"
